@@ -1,0 +1,23 @@
+{
+  "name": "nodemailerbognar",
+  "version": "1.0.0",
+  "description": "Node Mailer Example Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougtq/nodemailerbognar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dougtq/nodemailerbognar/issues"
+  },
+  "homepage": "https://github.com/dougtq/nodemailerbognar#readme",
+  "dependencies": {
+    "nodemailer": "^4.1.0"
+  }
+}
