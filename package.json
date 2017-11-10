@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/dougtq/nodemailerbognar#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
+    "hapi": "^16.6.2",
     "nodemailer": "^4.1.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
   }
 }
