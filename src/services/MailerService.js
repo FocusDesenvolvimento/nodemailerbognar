@@ -1,6 +1,6 @@
 const nodemailer = require('nodemailer')
-let Gmail = require('./src/services/GmailerService')
-let Hotmail = require('./src/services/HotmailerService')
+let Gmail = require('./GmailerService')
+let Hotmail = require('./HotmailerService')
 
 exports.MountMail = (request, reply) => {
   let {
